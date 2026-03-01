@@ -15,4 +15,4 @@ Sharings and learnings of [Hai Liang W.](https://github.com/hailiang-wang), subs
 
 | Date | Post | Tags |
 | --- | --- | --- |
-| 2026-03-01 | [Tensor 基本操作1 unsqueeze, squeeze, softmax | PyTorch 深度学习实战](./posts/2603011538.md) | digest | 
+| 2026-03-01 | [Tensor 基本操作1 unsqueeze, squeeze, softmax \| PyTorch 深度学习实战](./posts/2603011538.md) | pytorch | 
