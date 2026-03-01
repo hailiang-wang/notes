@@ -15,4 +15,4 @@ Sharings and learnings of [Hai Liang W.](https://github.com/hailiang-wang), subs
 
 | Date | Post | Tags |
 | --- | --- | --- |
-| 2026-03-01 | [《狂热分子》埃里克霍弗书摘](./posts/notes_2405011036.md) | digest | 
+| 2026-03-01 | [Tensor 基本操作1 unsqueeze, squeeze, softmax | PyTorch 深度学习实战](./posts/2603011538.md) | digest | 
