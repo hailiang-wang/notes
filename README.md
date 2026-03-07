@@ -3,7 +3,9 @@
 [About Me](https://github.com/hailiang-wang)　|　[Thoughts on Philosophy, History, etc.](https://www.zhihu.com/people/deckard-10)　
 
 </div>
+
 <!-- publish new post with `bin/publishTechNotes.sh` -->
+
 Tech Sharings of [Hai Liang W.](https://github.com/hailiang-wang), subscribe for updates by watching Repo on [GitHub](https://github.com/hailiang-wang/notes) or [Gitee](https://gitee.com/hailiang-wang/notes).
 
 ## Tags
